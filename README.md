@@ -8,7 +8,7 @@ Person-reid for 2018  College students'Entrepreneurship Project！
 - opencv
 
 # installation
-  pip install requirements.txt
+    pip install requirements.txt
 
 # Usages
-  python main.py
+    python main.py
